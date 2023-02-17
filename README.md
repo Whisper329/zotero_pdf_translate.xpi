@@ -1,0 +1,1 @@
+# zotero_pdf_translate.xpi
